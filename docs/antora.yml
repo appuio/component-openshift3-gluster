@@ -1,0 +1,6 @@
+name: openshift3-gluster
+title: openshift3-gluster
+version: master
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/partials/nav.adoc

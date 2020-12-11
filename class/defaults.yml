@@ -1,0 +1,3 @@
+parameters:
+  openshift3_gluster:
+    namespace: syn-openshift3-gluster

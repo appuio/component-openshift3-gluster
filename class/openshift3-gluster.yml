@@ -1,0 +1,12 @@
+parameters:
+  kapitan:
+    compile:
+      - input_paths:
+          - openshift3-gluster/component/app.jsonnet
+        input_type: jsonnet
+        output_path: apps/
+      - input_paths:
+          - openshift3-gluster/component/main.jsonnet
+        input_type: jsonnet
+        output_path: openshift3-gluster/
+
